@@ -1,0 +1,34 @@
+/********** MyCss ***********/
+
+.side-wrapper{
+                position:fixed;
+                bottom:2.5%;
+                width: 23%;
+                height:95%;
+                background-color:#eee;
+                padding-right: 15px;
+                padding-left: 15px;
+                margin-right: 20px;
+                margin-left: 15px;
+                /*border-right: #eee 1px solid ;*/
+                /*    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);*/
+                border-radius:6px;
+            }
+
+.tengah
+{
+	padding-top:150px;	
+}
+
+.jumbotron >.trans2
+{
+	background-color:rgba(255,255,255,0.2);
+}
+
+.page-header > .white
+{
+	border-bottom-color:rgba(255,255,255,0.2);
+}
+
+
+
