@@ -71,8 +71,21 @@ h3+hr
 {
   margin-top: 20px;
   margin-bottom: 10px ;
+}
+
+.line-primary hr
+{
+  margin-top: 20px;
+  margin-bottom: 10px ;
 } 
 
+
+/*.sociallinepbt {
+  margin-top: 0.5em;
+}*/
+.sociallinepbt a {
+  padding: 0.2em;
+}
 
 .font2
 {
@@ -513,7 +526,7 @@ a:hover > .badge
 
 .s-text
 {
-  font-size: 12px ;
+  font-size: 13px ;
   color: #ddd ;
   background-color: transparent;
 }

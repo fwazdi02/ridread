@@ -8,6 +8,7 @@
         <script src="./js/jquery.min.js"></script>
         <link href="./css/bootstrap.css" rel="stylesheet">
         <link href="./css/bootstrap-theme.css" rel="stylesheet">
+       <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet'/>
 
 
 
@@ -16,7 +17,7 @@
 
     </head>
 
-    <body  onload="waitall()" class="" style="background-color: #aaa">
+    <body  onload="waitall()" class="" style="background-color: white">
 
 <!-- <img src="./images/header2.jpg" class="pat blur"> -->
     <!-- <div class="container"> -->

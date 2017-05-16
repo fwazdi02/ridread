@@ -1,5 +1,6 @@
 
 
+
 CREATE DATABASE IF NOT EXISTS `ridread_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 
 GRANT ALL ON ridread_db.* TO 'admin'@'localhost' IDENTIFIED BY 'ridreadpasswd' ;
@@ -43,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `post` (
   `post_id` int(11) NOT NULL AUTO_INCREMENT,
   `title` varchar(256) NOT NULL,
   `konten` text NOT NULL,
-  `status` varchar(8) NOT NULL,
+  `status` varchar(8) NOT NULL DEFAULT 'publish',
   `author_id` int(11) NOT NULL,
   `tag_id` int(11) DEFAULT NULL,
   `comment_count` int(11) NOT NULL,

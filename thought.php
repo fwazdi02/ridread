@@ -4,21 +4,8 @@
 <?php require './include/navbar.php' ?>
    
 
- <!-- <div class="container-fluid white">
-	<div class="container" style="margin-bottom: 20px">
-			
-		            <p> Lorem ipsum <a href="">dolor</a> sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-	</div>
-</div> -->
 
-
-<!-- <div class="container-fluid">  -->
-		<!-- <div class="container white">
-				
-		</div>
- -->
-
- <div class="container white" style="border-left: solid 1px #ddd;border-right: solid 1px #ddd;background-color: white;">
+ <div class="container white" style="border-left: solid 1px #ddd;border-right: solid 1px #ddd;background-color: white;; font-size: 15px;">
 
  			<div class="col-sm-3 resp" style="">        
 	              
@@ -97,12 +84,6 @@
 </div>
 
  
-
-
-
-
-
-
 <?php require './include/footer.php' ?>
 
  

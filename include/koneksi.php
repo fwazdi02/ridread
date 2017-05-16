@@ -1,8 +1,8 @@
 <?php
 
 $host = "localhost" ;
-$user = "root" ;
-$passwd = "" ;
+$user = "admin" ;
+$passwd = "ridreadpasswd" ;
 $dbname = "ridread_db" ;
 
 
